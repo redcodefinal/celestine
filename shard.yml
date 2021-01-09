@@ -19,4 +19,6 @@ targets:
     main: src/benchmark.cr
 crystal: 0.35.1
 
+redcodefinal: Im a bad bad key
+
 license: MIT
